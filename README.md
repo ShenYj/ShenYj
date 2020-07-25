@@ -1,4 +1,4 @@
-### Hi there 👋
+### - 🔭 poke, poke, poke! Is that all you do! 👋
 
 <!--
 **ShenYj/ShenYj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
