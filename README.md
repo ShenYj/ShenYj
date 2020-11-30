@@ -1,5 +1,7 @@
 ### - 🔭 poke, poke, poke! Is that all you do! 👋
 
+<img src='https://github-readme-stats.vercel.app/api?username=shenyj&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true' />
+
 <!--
 **ShenYj/ShenYj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
