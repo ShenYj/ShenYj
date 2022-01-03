@@ -20,15 +20,44 @@ Hi there, I'm EZen
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+<img align="left" alt="iOS" width="26px" src="https://github.com/github/explore/blob/main/topics/ios/ios.png?raw=true" />
+<img align="left" alt="macOS" width="26px" src="https://github.com/github/explore/blob/main/topics/macos/macos.png?raw=true" />
+<img align="left" alt="vim" width="26px" src="https://github.com/github/explore/blob/main/topics/vim/vim.png?raw=true" />
+<img align="left" alt="c" width="26px" src="https://github.com/github/explore/blob/main/topics/c/c.png?raw=true" />
+<img align="left" alt="csharp" width="26px" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true" />
+<img align="left" alt="cpp" width="26px" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" />
+<img align="left" alt="swift" width="26px" src="https://github.com/github/explore/blob/main/topics/swift/swift.png?raw=true" />
+<img align="left" alt="swiftui" width="26px" src="https://github.com/github/explore/blob/main/topics/swiftui/swiftui.png?raw=true" />
+<img align="left" alt="Object-C" width="26px" src="https://github.com/github/explore/blob/main/topics/objective-c/objective-c.png?raw=true" />
+<img align="left" alt="ruby" width="26px" src="https://github.com/github/explore/blob/main/topics/ruby/ruby.png?raw=true" />
+<img align="left" alt="go" width="26px" src="https://github.com/github/explore/blob/main/topics/go/go.png?raw=true" />
+<img align="left" alt="lua" width="26px" src="https://github.com/github/explore/blob/main/topics/lua/lua.png?raw=true" />
+<img align="left" alt="html" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" />
+<img align="left" alt="React-Native" width="26px" src="https://github.com/github/explore/blob/main/topics/react-native/react-native.png?raw=true" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="sqlite" width="26px" src="https://github.com/github/explore/blob/main/topics/sqlite/sqlite.png?raw=true" />
+<img align="left" alt="typescript" width="26px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="apple" width="26px" src="https://github.com/github/explore/blob/main/topics/apple/apple.png?raw=true" />
+<img align="left" alt="clash" width="26px" src="https://github.com/github/explore/blob/main/topics/clash/clash.png?raw=true" />
+<img align="left" alt="xcode" width="26px" src="https://github.com/github/explore/blob/main/topics/xcode/xcode.png?raw=true" />
+<img align="left" alt="homebrew" width="26px" src="https://github.com/github/explore/blob/main/topics/homebrew/homebrew.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png?raw=true" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="git" width="26px" src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="npm" width="26px" src="https://github.com/github/explore/blob/main/topics/npm/npm.png?raw=true" />
+<img align="left" alt="yarn" width="26px" src="https://github.com/github/explore/blob/main/topics/yarn/yarn.png?raw=true" />
+<img align="left" alt="babel" width="26px" src="https://github.com/github/explore/blob/main/topics/babel/babel.png?raw=true" />
+<img align="left" alt="yaml" width="26px" src="https://github.com/github/explore/blob/main/topics/yaml/yaml.png?raw=true" />
+<img align="left" alt="xml" width="26px" src="https://github.com/github/explore/blob/main/topics/xml/xml.png?raw=true" />
+<img align="left" alt="chrome" width="26px" src="https://github.com/github/explore/blob/main/topics/chrome/chrome.png?raw=true" />
+<img align="left" alt="cli" width="26px" src="https://github.com/github/explore/blob/main/topics/cli/cli.png?raw=true" />
+<img align="left" alt="figma" width="26px" src="https://github.com/github/explore/blob/main/topics/figma/figma.png?raw=true" />
+<img align="left" alt="jenkins" width="26px" src="https://github.com/github/explore/blob/main/topics/jenkins/jenkins.png?raw=true" />
 
 <br />
 <br />
