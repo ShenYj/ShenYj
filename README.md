@@ -30,23 +30,17 @@ Hi there, I'm EZen
 <img align="left" alt="ruby" width="26px" src="https://github.com/github/explore/blob/main/topics/ruby/ruby.png?raw=true" />
 <img align="left" alt="go" width="26px" src="https://github.com/github/explore/blob/main/topics/go/go.png?raw=true" />
 <img align="left" alt="lua" width="26px" src="https://github.com/github/explore/blob/main/topics/lua/lua.png?raw=true" />
-<img align="left" alt="html" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="sqlite" width="26px" src="https://github.com/github/explore/blob/main/topics/sqlite/sqlite.png?raw=true" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="typescript" width="26px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png?raw=true" />
 
 <br />
 <br />
 
 ### Tools:
 
-<img align="left" alt="iOS" width="26px" src="https://github.com/github/explore/blob/main/topics/ios/ios.png?raw=true" />
-<img align="left" alt="macOS" width="26px" src="https://github.com/github/explore/blob/main/topics/macos/macos.png?raw=true" />
-<img align="left" alt="apple" width="26px" src="https://github.com/github/explore/blob/main/topics/apple/apple.png?raw=true" />
+<img align="left" alt="markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png?raw=true" />
 <img align="left" alt="React-Native" width="26px" src="https://github.com/github/explore/blob/main/topics/react-native/react-native.png?raw=true" />
 <img align="left" alt="clash" width="26px" src="https://github.com/github/explore/blob/main/topics/clash/clash.png?raw=true" />
 <img align="left" alt="xcode" width="26px" src="https://github.com/github/explore/blob/main/topics/xcode/xcode.png?raw=true" />
