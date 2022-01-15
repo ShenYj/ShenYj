@@ -6,7 +6,7 @@ Hi there, I'm EZen
 
 - 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 <img src='https://github-readme-stats.vercel.app/api?username=shenyj&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true' />
 
