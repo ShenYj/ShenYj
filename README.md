@@ -62,11 +62,13 @@ Hi there, I'm EZen
 <br />
 <br />
 
-[My Wiki]: https://github.com/ShenYj/ShenYj.github.io/wiki
+[My Wiki]: ShenYj.github.io
 
 
 <!--
 **ShenYj/ShenYj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://github.com/ShenYj/ShenYj.github.io/wiki
 
 Here are some ideas to get you started:
 
