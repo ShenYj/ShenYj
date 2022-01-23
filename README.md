@@ -62,7 +62,7 @@ Hi there, I'm EZen
 <br />
 <br />
 
-[My Wiki]: ShenYj.github.io
+[My Wiki]: https://shenyj.github.io
 
 
 <!--
