@@ -8,7 +8,7 @@ Hi there, I'm EZen
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
-<img src='https://github-readme-stats.vercel.app/api?username=shenyj&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true' />
+<img src=`https://api.githubtrends.io/user/svg/ShenYj/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic` />
 
 <br />
 
@@ -67,6 +67,8 @@ Hi there, I'm EZen
 
 <!--
 **ShenYj/ShenYj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src='https://github-readme-stats.vercel.app/api?username=shenyj&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true' />
 
 https://github.com/ShenYj/ShenYj.github.io/wiki
 
