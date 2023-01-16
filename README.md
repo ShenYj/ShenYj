@@ -1,4 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenyj&hide=CSS,shell" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenyj&hide=CSS,shell" /> -->
+
+<!-- <a href="https://githubtrends.io">
+  <img align="right" src="https://api.githubtrends.io/user/svg/shenyj/langs" />
+</a> -->
 
 ### - 🔭 poke, poke, poke! Is that all you do! 👋
 
@@ -8,9 +12,13 @@ Hi there, I'm EZen
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/shenyj/langs)](https://githubtrends.io) -->
 
-<img src='https://github-readme-stats.vercel.app/api?username=shenyj&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true' />
 
+
+<!-- 
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=shenyj&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true' />
+ -->
 <br />
 
 ### Connect with me:
