@@ -10,7 +10,7 @@ Hi there, I'm EZen
 
 - 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/shenyj/langs)](https://githubtrends.io) -->
 
